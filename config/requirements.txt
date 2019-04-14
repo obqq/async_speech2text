@@ -1,2 +1,5 @@
 aiohttp==3.5.4
 gunicorn==19.9.0
+cryptography==2.6.1
+asyncio==3.4.3
+pyjwt==1.7.1

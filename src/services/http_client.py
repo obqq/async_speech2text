@@ -7,7 +7,7 @@ from aiohttp import log
 
 async def external_api(app) -> AsyncGenerator:
     """
-    Создаёт клиентскую сессию с External API
+    Creates client session
     :param app:
     :return:
     """
